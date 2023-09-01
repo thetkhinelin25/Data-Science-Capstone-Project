@@ -5,8 +5,8 @@ This Project is about predicting the Landing Outcome (will the rocket land succe
 
 The tasks of this project are as follows:
 
-Task 1: Data Collecting by using API and Web Scraping.
-Task 2: Data Wrangling 
-Task 3: Exploratory Data Analysis (EDA) with SQL and Visualization 
-Task 4: Creating interactive Maps and Dashboard
-Task 5: Building a Predictive Model 
+Task-1: Data Collecting by using API and Web Scraping.
+Task-2: Data Wrangling.
+Task-3: Exploratory Data Analysis (EDA) with SQL and Visualization. 
+Task-4: Creating interactive Maps and Dashboard.
+Task-5: Building a Predictive Model. 
