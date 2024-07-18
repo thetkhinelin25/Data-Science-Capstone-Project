@@ -9,4 +9,9 @@ Task-1: Data Collecting by using API and Web Scraping.
 Task-2: Data Wrangling.
 Task-3: Exploratory Data Analysis (EDA) with SQL and Visualization. 
 Task-4: Creating interactive Maps and Dashboard.
-Task-5: Building a Predictive Model. 
+Task-5: Building a Predictive Model and Evaluating the models to choose the best one. 
+
+Methodology: In model selection for predicting landing outcomes, the dataset is tested with four different models (Logistic Regression, SVM, Decision Tree Classifier, and KNN) and evaluated their performance with confusion matrics and accuracy scores. The best model for this project is the Decision Tree Classifier with 94% accuracy in the test dataset. For visualizing the Launch Sites and their success rate, Folium and Plotly Dash are used to create interactive maps and dashboards, respectively. 
+
+Results: By using the Decision Tree Classifier, we can predict will the rocket land successfully or not. The interactive map and dashboard give the geographical observations of the Launch Sites and their success rate. 
+
