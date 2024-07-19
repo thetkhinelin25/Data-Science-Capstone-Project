@@ -18,4 +18,4 @@ Methodology: In model selection for predicting landing outcomes, the dataset is 
 
 Results: By using the Decision Tree Classifier, we can predict will the rocket land successfully or not. The interactive map and dashboard give the geographical observations of the Launch Sites and their success rate. 
 
-# Note: to look ds-capstone-project-report-coursera.pdf file from Presentation slide folder, please download the file first.
+### Note: to look ds-capstone-project-report-coursera.pdf file from Presentation slide folder, please download the file first.
